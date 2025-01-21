@@ -273,7 +273,7 @@ bot.onText(/\/startx/, (msg) => {
 });
 
 bot.onText(/\/fetch/, (msg) => {
-    bot.sendMessage(msg.chat.id, "Unknown Server");
+    bot.sendMessage(msg.chat.id, "idk, ubuntu maybe or gentoo or debian");
 });
 
 bot.onText(/\/joke/, (msg) => {
